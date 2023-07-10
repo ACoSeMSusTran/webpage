@@ -1,6 +1,6 @@
 ---
 title: José Ángel Martín Baos
-role: Predoctoral researcher
+role: Assistant Professor
 bio: null
 interests:
   - Machine Learning
@@ -44,10 +44,10 @@ superuser: false
 authors:
   - joseangelmartin
 user_groups:
-  - PhD Students
+  - Researchers
 highlight_name: false
 email: ""
 ---
-José Ángel Martín Baos is a predoctoral researcher in computer science in the Escuela Superior de Informática of the University of Castilla-La Mancha. There, he graduated with honors on both a BSc. in computer science in the year 2018, and a MSc. in computer science in the year 2019.
+José Ángel Martín Baos is an Assistant Professor (PhD) at the Escuela Superior de Informática of the University of Castilla-La Mancha. He obtained his PhD in Advanced Computer Technologies from the University of Castilla-La Mancha in 2023. There, he graduated with honors on both a BSc. in computer science in the year 2018, and a MSc. in computer science in the year 2019.
 
-He is currently studying his PhD at the University of Castilla-La Mancha as a teaching assistant (profesor Ayudante). Previously, he has been working with a FPU (Ayudas para la formación de profesorado universitario) grant from the Spanish Ministry of Science, Innovation and Universities. He is also working as research assistant in the MAT (Modelos y Algoritmos en Sistemas de Transportes) research group since 2016.
+Since 2016, José Ángel has been working as a researcher in the MAT (Modelos y Algoritmos en Sistemas de Transportes) research group at the University of Castilla-La Mancha. His research focuses on the use of machine learning models and artificial intelligence for solving optimization problems in the field of transportation. Specifically, he has worked on the application of machine learning models for transport demand modeling.
