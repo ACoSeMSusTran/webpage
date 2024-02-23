@@ -1,0 +1,11 @@
+E. del Castillo-Herrera, R. García-Ródenas, L. Jimenez-Linares, M.L. López-García, J.A. López-Gómez, J.A. Martín-Baos, J. Moreno-Garcia, D. Muñoz-Valero, L. Rodriguez-Benitez, E.A. Villarrubia-Martin,
+ROBIN: Rail mOBIlity simulatioN,
+Transportation Research Procedia,
+Volume 78,
+2024,
+Pages 158-165,
+ISSN 2352-1465,
+https://doi.org/10.1016/j.trpro.2024.02.021.
+(https://www.sciencedirect.com/science/article/pii/S2352146524000747)
+Abstract: The use of simulators is frequent in the study of complex systems. They replicate a real system and allow obtaining data from the simulated process as well as providing a mathematical model that helps answer What If? questions. This opens up the possibility of evaluating laboratory environment techniques and processes that will later be implemented in the real system. Competitive passenger rail services are complex systems. The efficient design of market mechanisms that encourage competition to offer more and better services requires analytical tools on which to test these new policies. This makes it essential to develop a simulator, as real and complete as possible, to carry out this analysis. This paper presents the development of a microscopic simulator, called ROBIN (Rail mOBIlity simulatioN), to simulate rail mobility in a competitive regime. The developed simulator is parameterizable and general enough to simulate passenger flows in competing railway systems. The tests carried out with ROBIN using the Spanish railway market as a case of study are proof of its usefulness, allowing disaggregated modelling of passenger behaviour and their travel choices in a competitive railway market.
+Keywords: simulation of transportation systems; demand and choice modeling; advanced modeling approaches in logistics
